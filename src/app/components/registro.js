@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 export function register() {
     const $register = document.createElement("div");
@@ -30,3 +31,8 @@ export function register() {
 
 
 } 
+=======
+//esta pagina es la de registro cuarta vista
+
+
+>>>>>>> fa0478ef216baa6f7a4299c359e8cdde230bef81
