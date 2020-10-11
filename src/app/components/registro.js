@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> ce7fc0c236c4f2a4fddca4013b90b432d0c3d895
 
 export function register() {
     const $register = document.createElement("div");
@@ -34,11 +30,7 @@ export function register() {
 
 
 } 
-<<<<<<< HEAD
-=======
-//esta pagina es la de registro cuarta vista
 
 
->>>>>>> fa0478ef216baa6f7a4299c359e8cdde230bef81
-=======
->>>>>>> ce7fc0c236c4f2a4fddca4013b90b432d0c3d895
+
+
