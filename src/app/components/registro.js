@@ -1,5 +1,5 @@
 
-export function register() {
+/*export function register() {
     const $register = document.createElement("div");
     $register.classList.add("contenedor-form");
     $register.id = ("formRegistro");
@@ -29,8 +29,12 @@ export function register() {
     return $register;
 
 
+<<<<<<< HEAD
 } 
 
 
 
 
+=======
+} */
+>>>>>>> 98dc2d757a281280612c8491736b5aea9bcbae80
