@@ -22,8 +22,8 @@ export function autenticar(email, password){
                 console.log('check!')
                 //window.location.hash = '#/home'
             })
-            .catch(() => {
-                console.log('Hay un error')
+            .catch((e) => {
+                console.log(e)
                 window.location.hash = '#/error';
             })
 
